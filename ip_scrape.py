@@ -5,20 +5,20 @@
 #######################################################################
 
 #######################################################################
-#########################	Configuration	###########################
+#######################     Configuration     #########################
 #######################################################################
-##																	 ##	
-##	N.B Currently uses gmail, modify server settings to suit	 	 ##
-##																	 ##
-##	Enter email details. Look for comments 							 ##
-##	(Plain text password :o shock horror)							 ##
-##																	 ##
-##	Create blank current_ip.txt in same directory as script			 ##
-##																	 ##
-##	Configure error log printing if desired							 ##
-##																	 ##
-##	Set up cron job if desired										 ##
-##																	 ##
+##								     ##	
+##	N.B Currently uses gmail, modify server settings to suit     ##
+##								     ##
+##	Enter email details. Look for comments 			     ##
+##	(Plain text password :o shock horror)			     ##
+##								     ##
+##	Create blank current_ip.txt in same directory as script	     ##
+##								     ##
+##	Configure error log printing if desired			     ##
+##								     ##
+##	Set up cron job if desired				     ##
+##								     ##
 #######################################################################
 
 
