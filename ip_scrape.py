@@ -34,13 +34,11 @@ if err is None:
 
 	with open('current_ip.txt', 'r+') as file:
 		current_ip = file.read()
-		print current_ip
 		new_ip = (current_ip != output)
 		if(new_ip):
 			file.seek(0)
 			file.write(output)
 			file.truncate()
-		print new_ip
 	file.closed
 
 
